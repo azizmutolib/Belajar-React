@@ -22,4 +22,18 @@ function App() {
   );
 }
 
-export default App;
+function cobainReact() {
+  return(
+    <div className='controler'>
+      <header className="cobainHeader">
+        <p>ini react</p>
+
+      </header>
+        
+
+    </div>
+  )
+  
+}
+
+export default cobainReact;
